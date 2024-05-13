@@ -1,0 +1,27 @@
+
+{
+    "short_name": "reactadmin-pwa",
+    "name": "reactadmin-pwa",
+    "icons": [
+        {
+            "src": "maskable-icon2_196.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "image_192.jpg",
+            "type": "image/jpg",
+            "sizes": "192x192"
+        },
+        {
+            "src": "image_512.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
